@@ -1,5 +1,7 @@
 [package]
 name = "siiir_points"
+description = "Data structures representing points in 2D & 3D space."
+license = "Mit"
 version = "0.1.0-beta"
 edition = "2021"
 
