@@ -1,12 +1,14 @@
 [package]
 name = "siiir_points"
 description = "Data structures representing points in 2D & 3D space."
+readme = "README.md"
 
 license = "MIT"
 repository = "https://github.com/Siiir/siiir_points"
 
 version = "0.1.1-beta"
 edition = "2021"
+
 
 [dependencies]
 derive_more = "0.99.17"
