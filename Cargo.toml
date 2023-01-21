@@ -1,7 +1,6 @@
 [package]
 name = "siiir_points"
 description = "Data structures representing points in 2D & 3D space."
-documentation = "https://crates.io/crates/siiir_points"
 
 license = "MIT"
 repository = "https://github.com/Siiir/siiir_points"
