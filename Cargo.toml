@@ -5,7 +5,7 @@ description = "Data structures representing points in 2D & 3D space."
 license = "MIT"
 repository = "https://github.com/Siiir/siiir_points"
 
-version = "0.1.0-beta"
+version = "0.1.1-beta"
 edition = "2021"
 
 [dependencies]
