@@ -3,7 +3,7 @@ name = "siiir_points"
 description = "Data structures representing points in 2D & 3D space."
 documentation = "https://crates.io/crates/siiir_points"
 
-license = "Mit"
+license = "MIT"
 repository = "https://github.com/Siiir/siiir_points"
 
 version = "0.1.0-beta"
