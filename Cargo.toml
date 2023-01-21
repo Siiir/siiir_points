@@ -6,7 +6,7 @@ readme = "README.md"
 license = "MIT"
 repository = "https://github.com/Siiir/siiir_points"
 
-version = "0.1.1-beta"
+version = "0.1.2-beta"
 edition = "2021"
 
 
