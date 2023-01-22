@@ -17,7 +17,7 @@ macro_rules! derive_universal_traits {
         // std::ops – binary
         #[derive(Add, AddAssign, Sub, SubAssign)]
         // Comparisons
-        #[derive(Eq,PartialEq)]
+        #[derive(Hash,Eq,PartialEq)]
         // Displayers
         #[derive(Debug)]
         $struct_def
